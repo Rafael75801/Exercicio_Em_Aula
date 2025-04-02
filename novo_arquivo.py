@@ -1,1 +1,1 @@
-print('Boa tarde! ')
+n = int(input('Fala um número ai: '))
